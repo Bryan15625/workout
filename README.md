@@ -27,6 +27,7 @@ This project was created using React.js for the UI, and Express.js on the server
 4. In the terminal, use the command "npm start" on the "frontend" folder, and "npm run devStart" on the "backend" folder.
 
 Main ui files: workout/frontend/src/pages/ (3 files)
+
 Main server files: workout/server/index.js (1 file)
 
 That's it! The project should open on your web browser now.
