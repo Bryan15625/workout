@@ -11,7 +11,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 function App() {
   return (
     <div style={{ textAlign:"center"}}>
-      © 2024 Bryan Workouts™
+      © 2022 Bryan Workouts™
     </div>
   )
 }
